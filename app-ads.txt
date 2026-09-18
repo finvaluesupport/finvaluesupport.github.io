@@ -142,7 +142,7 @@ zetaglobal.net, 891, RESELLER
 zmaticoo.com, 5135082, RESELLER
 
 google.com, pub-5841711581261172, DIRECT, f08c47fec0942fa0
-
+facebook.com, 1543780774110809, DIRECT, c3e20eee3f780d68
 
 OWNERDOMAIN= launcherfordesktop.blogspot.com				
 MANAGERDOMAIN= anymanager.io				
